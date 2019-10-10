@@ -1,4 +1,9 @@
-# moviedb
+# TMDB
+
+## Clone repository
+```
+git clone https://github.com/rustemkhakimzyanov/tmdb.git
+```
 
 ## Project setup
 ```
